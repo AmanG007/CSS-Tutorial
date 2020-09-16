@@ -1,0 +1,20 @@
+	p{ color: orangered;}
+	
+	#developers{
+		color: lime;
+		text-decoration: underline;
+		text-align: center;
+	}
+	
+	#nation {
+		color: orangered;
+		text-align: left;
+		text-indent
+	}
+	
+	div {
+		text-transform:uppercase;
+		color:navy;
+		text-decoration:line-through;
+		text-align:juctify;
+	}

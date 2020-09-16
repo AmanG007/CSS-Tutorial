@@ -1,0 +1,27 @@
+p {
+	border-style: dashed;
+	border-width: 2px;
+	border-color: blue;
+	border-radius: 25px;
+	display: inline;
+	margin: 25px;
+	padding: 15px;
+}
+h4 {
+	border-style: dotted;
+	border-width: 2px;
+	border-color: pink;
+	border-radius: 25px;
+	display: inline;
+	margin: 25px;
+	padding: 15px;
+}
+h5 {
+	border-style: ridge;
+	border-width: 2px;
+	border-color: red;
+	border-radius: 25px;
+	display: inline;
+	margin: 25px;
+	padding: 15px;
+}
